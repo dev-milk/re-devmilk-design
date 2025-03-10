@@ -9,9 +9,6 @@
      <a href="https://note.com/devsugar_biz/m/mb6df505b9ef5">
       <img src="<?php echo get_theme_file_uri('img/note-btn.png'); ?>" alt="note">
      </a>
-     <a href="https://jp.pinterest.com/devmilk_biz/">
-      <img src="<?php echo get_theme_file_uri('img/pinterest-btn.png'); ?>" alt="ピンタレスト">
-     </a>
       </p>
   </section>
 
