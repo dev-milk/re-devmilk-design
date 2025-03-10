@@ -10,7 +10,7 @@
       <a href="<?php echo esc_url(home_url('/category/affinity-designer/')); ?>"><p><span>-Affinity Designer-</span></p></a>
       <a href="<?php echo esc_url(home_url('/category/affinity-publisher/')); ?>"><p><span>-Affinity Publisher-</span></p></a>
       <a href="<?php echo esc_url(home_url('/category/other-method/')); ?>"><p><span>-Other-</span></p></a>
-      <a href="<?php echo esc_url(home_url('/contact/')); ?>"><p><span>-Contact-</span></p></a>
+      <a href="https://devcosmo.biz/form/" target="_blank"><p><span>-Contact-</span></p></a>
     </section>
     <section class="item-tag">
     <p class="footer-title">Tag</p>

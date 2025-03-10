@@ -3,7 +3,7 @@
     <img src="<?php echo esc_url(get_theme_file_uri('img/auther.svg')); ?>" alt="作者プロフィール">
     <h3 class="side-title">Auther</h3>
     <p class="profile">
-    歴史とデザインが好きなふつうのサラリーウーマンです。ローコスト＆クオリティキープの制作を目指してこれからも記事を書いていきます。<br>
+    歴史とデザインが好きなふつうのサラリーウーマンです。<br>
     本ブログは<a href="https://note.com/devsugar_biz/m/mb6df505b9ef5">noteに移動しています。</a></p>
       <p>
      <a href="https://note.com/devsugar_biz/m/mb6df505b9ef5">
